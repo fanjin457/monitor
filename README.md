@@ -6,5 +6,5 @@
 HTML、CSS、JS、React——Umi——Ant Design
 
 ## BackEnd
-Python——Flask——SQLAlchemy
-算法实现：Python
+- Python——Flask——SQLAlchemy
+- 算法实现：Python
